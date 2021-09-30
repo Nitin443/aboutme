@@ -1,0 +1,251 @@
+/*body{<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+  background-color: skyblue;
+}*/
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Noto Sans Devanagari', sans-serif;
+}
+
+
+.top-most{
+  width: 100%;
+  height: 50px;
+  background-color: skyblue;
+  position: fixed;
+
+}
+
+.top-most-heding{
+  margin: 0px;
+  display: inline-block;
+  position: absolute;
+  left: 3px;
+}
+
+.top-side-option1{
+  margin: 0px;
+  display: inline-block;
+  position: absolute;
+  right: 350px;
+  margin-top: 15px;
+
+}
+
+.top-side-option1:hover{
+  color: white;
+}
+
+.top-side-option2{
+  margin: 0px;
+  position: absolute;
+  display: inline-block;
+  right: 250px;
+    margin-top: 15px;
+
+}
+
+.top-side-option2:hover{
+  color: white;
+}
+
+.top-side-option3{
+  margin: 0px;
+  display: inline-block;
+  position: absolute;
+  right: 100px;
+    margin-top: 15px;
+
+}
+
+.top-side-option3:hover{
+  color: white;
+}
+
+.top {
+  background-color: #E4F9F5;
+  padding: 100px;
+}
+
+.middle {
+/*  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;*/
+  padding: 100px 0px;
+}
+
+.bottom {
+/*  background-color: green;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;*/
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 380px;
+  bottom: 450px;
+}
+
+.top-cloud{
+ position: absolute;
+  right: 400px;
+  top: 160px;
+
+}
+
+.title{
+  font-size: 5.625rem;
+  margin-bottom: 10px;
+  color: #66BFBF;
+/*  line-height: 2;
+ width: 200px;
+margin-bottom: 0px;
+position: relative;
+left: 690px;
+top: 25px;*/
+
+
+
+}
+
+
+.sub-title{
+  font-family: 'Noto Sans Devanagari', sans-serif;
+  font-size: 1.5rem;
+  margin: 0px;
+  color: #66BFBF;
+  font-weight: normal;
+  /* COM */
+/*  width: 200px;
+  margin-top: 0px;
+position: relative;
+left: 690px;
+top: 30px;
+*/
+}
+
+hr{
+  border: dotted red  6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 15px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.intro{
+  width: 30%;
+  margin:  auto;
+
+}
+
+.h3-design{
+  color: #11999E;
+
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+
+}
+
+.img-design1{
+  width: 25%;
+  float: left;
+  margin-right:  15px;
+
+}
+
+.img-design2{
+  width: 25%;
+  float: right;
+  margin-left:   15px;
+
+}
+
+.footer-link{
+  margin-right: 35px;
+}
+
+.footer-link:hover{
+  color: white;
+}
+
+.bottom{
+  background-color: #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+
+}
+
+.logo{
+  width: 65px;
+  position: absolute;
+  left: 3px;
+}
+
+.logo:hover{
+  width: 250px;
+  height: 180px;
+  opacity: 1;
+}
+
+.bottom-para{
+  margin-bottom: 0px;
+  color: #EAF6F6;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 30px;
+   font-weight: 100;
+   padding: 11px;
+   background-color: #22E3E3;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 80px;
+   margin-top: 40px;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
